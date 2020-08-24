@@ -1,0 +1,4 @@
+1.Created new environment(carprediction)==3.7
+2.working directory(launched jupyter notebook)
+3.start creating a model
+--    
